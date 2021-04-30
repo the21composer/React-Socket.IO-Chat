@@ -94,6 +94,9 @@ dist
 # Serverless directories
 .serverless/
 
+# WebStorm project files
+.idea
+
 # FuseBox cache
 .fusebox/
 

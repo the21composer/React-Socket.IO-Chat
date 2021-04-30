@@ -1,0 +1,66 @@
+{
+  "free": {
+    "messages": [
+      {
+        "messageId": "p0LCLvHm",
+        "createdAt": "2021-04-30T14:50:04.699Z",
+        "userId": "D6R_FQYe",
+        "messageText": "Hello, Alex 😀",
+        "senderName": "Irina"
+      },
+      {
+        "messageId": "5s4yWYtq",
+        "createdAt": "2021-04-30T14:50:12.747Z",
+        "userId": "uuuFKWvg",
+        "messageText": "Heheh",
+        "senderName": "Alex"
+      },
+      {
+        "messageId": "ZjMCvXqt",
+        "createdAt": "2021-04-30T14:50:15.128Z",
+        "userId": "D6R_FQYe",
+        "messageText": "hehehe",
+        "senderName": "Irina"
+      },
+      {
+        "messageId": "iRZfrBqy",
+        "createdAt": "2021-04-30T14:50:21.856Z",
+        "userId": "D6R_FQYe",
+        "messageText": "Sorry I have to go",
+        "senderName": "Irina"
+      }
+    ]
+  },
+  "job": {
+    "messages": [
+      {
+        "messageId": "FFZGg7X4",
+        "createdAt": "2021-04-30T14:50:41.563Z",
+        "userId": "D6R_FQYe",
+        "messageText": "Hmm",
+        "senderName": "Irina"
+      },
+      {
+        "messageId": "thxUqnBP",
+        "createdAt": "2021-04-30T14:50:44.082Z",
+        "userId": "D6R_FQYe",
+        "messageText": "No one here",
+        "senderName": "Irina"
+      },
+      {
+        "messageId": "uSgmKy2R",
+        "createdAt": "2021-04-30T14:50:53.748Z",
+        "userId": "D6R_FQYe",
+        "messageText": "Oo Alex",
+        "senderName": "Irina"
+      },
+      {
+        "messageId": "x18sd_mQ",
+        "createdAt": "2021-04-30T14:50:59.848Z",
+        "userId": "uuuFKWvg",
+        "messageText": "I'm here? yeap",
+        "senderName": "Alex"
+      }
+    ]
+  }
+}
